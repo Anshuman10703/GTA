@@ -19,7 +19,7 @@ Built with **React**, **GSAP**, **Tailwind CSS**, and **Vite**.
 
 <br />
 
-<a href="YOUR_DEPLOYED_URL" target="_blank">
+<a href="https://gtavi-drab-seven.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-ff4d8d?style=for-the-badge" alt="Live Demo" />
 </a>
 
